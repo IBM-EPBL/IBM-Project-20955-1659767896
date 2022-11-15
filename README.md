@@ -1,5 +1,5 @@
 # IBM-Project-20955-1659767896
-Intelligent Vehicle Damage Assessment &amp; Cost Estimator for Insurance Companies
+##Intelligent Vehicle Damage Assessment &amp; Cost Estimator for Insurance Companies
 
 
 ## Objective
@@ -130,7 +130,3 @@ Libraries Used:
 4. Using more secure and durable hardware, the entire system can be built on the Cloud to run remotely and from the user’s cellular device itself.
 
 5. The application can also be updated to recommend the user of policies pertaining to the specific accounts and other insurance benefits.
-
-
-## Demo
-<img src="https://media.giphy.com/media/dshr4oG9ZT5oWpli03/source.gif" width ="900" height ="507"/>
